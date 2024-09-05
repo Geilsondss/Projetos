@@ -1,4 +1,4 @@
-//#Projetos//
+__#PROJETOS__
 
 Bem-vindo ao meu repositório de Projetos. Aqui você vai encontrar uma mistura de projetos desenvolvidos durante o curso de Computação e alguns outros projetos que eu andei explorando por conta própria.
 Cada projeto foi desenvolvido para atender aos requisitos específicos das disciplinas do curso, mas também incluem experimentos e criações pessoais que vão além do currículo. 
