@@ -4,8 +4,8 @@ Bem-vindo ao meu repositório de Projetos. Aqui você vai encontrar uma mistura 
 Cada projeto foi desenvolvido para atender aos requisitos específicos das disciplinas do curso, mas também incluem experimentos e criações pessoais que vão além do currículo. 
 
 Neste repositório, você encontrará Projetos de: 
-    - Algoritmo e Programação de Computadores;
-    - Lógica Computacional.
+- Algoritmo e Programação de Computadores;
+- Lógica Computacional.
 
 Contribuições são bem-vindas! Se você se interessar por algum projeto ou quiser sugerir melhorias, pode mandar um pull request. Adoro receber feedback e colaborações!
 
