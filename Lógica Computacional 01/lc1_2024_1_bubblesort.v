@@ -1,6 +1,6 @@
 (** Lógica Computacional 1 - 2024/1 *)
 (** Projeto: formalização da correção do algoritmo bubblesort utilizando a estrutura de listas.**)
-(** Necessário provar que o algoritmo bubblesort permuta e ordena uma lista**)
+  (** Necessário provar que o algoritmo bubblesort permuta e ordena listas.**)
 (** Link do site do coq se vocês prefirirem: https://coq.vercel.app/scratchpad.html 
   
 Nome e username dos participantes:
