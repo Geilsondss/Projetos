@@ -2,10 +2,10 @@
 (** Projeto: formalização da correção do algoritmo bubblesort utilizando a estrutura de listas.**)
 (** Link do site do coq se vocês prefirirem: https://coq.vercel.app/scratchpad.html 
   
-Nome e matrícula dos participantes:
-1. Geilson dos Santos Sá - 231006239
-2. Wesley Henrique Ferreira - 231021496
-3. Karina Beatriz Escalona Escalona - 231006140
+Nome dos participantes:
+1. Geilson
+2. Wesley 
+3. Karina 
 *)
 
 Require Import Arith List Lia.
@@ -131,6 +131,4 @@ Qed.
 
 
 
-
-
-              
+        
