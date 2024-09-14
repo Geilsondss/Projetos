@@ -5,7 +5,7 @@ Cada projeto foi desenvolvido para atender aos requisitos específicos das disci
 
 Neste repositório, você encontrará Projetos de: 
 - Algoritmo e Programação de Computadores;
-- Lógica Computacional.
+- Lógica Computacional 01.
 
 Contribuições são bem-vindas! Se você se interessar por algum projeto ou quiser sugerir melhorias, pode mandar um pull request. Adoro receber feedback e colaborações!
 
