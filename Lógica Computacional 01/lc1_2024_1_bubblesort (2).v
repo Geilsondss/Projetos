@@ -1,11 +1,12 @@
 (** Lógica Computacional 1 - 2024/1 *)
 (** Projeto: formalização da correção do algoritmo bubblesort utilizando a estrutura de listas.**)
+(** Necessário provar que o algoritmo bubblesort permuta e ordena uma lista**)
 (** Link do site do coq se vocês prefirirem: https://coq.vercel.app/scratchpad.html 
   
-Nome e matrícula dos participantes:
-1. Geilson dos Santos Sá - 231006239
-2. Wesley Henrique Ferreira - 231021496
-3. Karina Beatriz Escalona Escalona - 231006140
+Nome e username dos participantes:
+1. Geilson - Geilsondss 
+2. Wesley - ShadowmereSmith
+3. Karina - Kescalona
 *)
 
 Require Import Arith List Lia.
