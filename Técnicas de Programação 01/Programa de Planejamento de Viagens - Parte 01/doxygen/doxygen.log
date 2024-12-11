@@ -1,0 +1,4 @@
+//Mac/Home/Documents/ProjetoTp1 2/testes.cpp:2: warning: the name 'teste.cpp' supplied as the argument in the \file statement is not an input file
+//Mac/Home/Documents/ProjetoTp1 2/testes.h:2: warning: the name 'teste.h' supplied as the argument in the \file statement is not an input file
+//Mac/Home/Documents/ProjetoTp1 2/dominios.h:352: warning: documented symbol 'EstadoTeste::sucesso Representa que o teste foi bem sucedido' was not declared or defined.
+//Mac/Home/Documents/ProjetoTp1 2/dominios.h:353: warning: documented symbol 'EstadoTeste::falha Representa que o teste falhou' was not declared or defined.
