@@ -1,0 +1,846 @@
+# depslib dependency file v1.0
+1722568645 source:c:\users\faust\desktop\trabalho tp1 final\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"entidades.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladoras.h"
+	"containers.h"
+
+1722567124 c:\users\faust\desktop\trabalho tp1 final\entidades.h
+	"dominios.h"
+
+1722567026 c:\users\faust\desktop\trabalho tp1 final\dominios.h
+	<stdexcept>
+	<iostream>
+
+1722567263 c:\users\faust\desktop\trabalho tp1 final\interfaces.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+	<stdexcept>
+	<iostream>
+
+1722567459 c:\users\faust\desktop\trabalho tp1 final\controladoras.h
+	"interfaces.h"
+	"containers.h"
+	<iostream>
+
+1722567413 c:\users\faust\desktop\trabalho tp1 final\containers.h
+	"dominios.h"
+	"entidades.h"
+	"controladoras.h"
+	"containers.h"
+	<list>
+	<map>
+
+1722571188 source:c:\users\wes04\desktop\sistema bancario\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"entidades.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladoras.h"
+	"containers.h"
+
+1722567126 c:\users\wes04\desktop\sistema bancario\entidades.h
+	"dominios.h"
+
+1722567028 c:\users\wes04\desktop\sistema bancario\dominios.h
+	<stdexcept>
+	<iostream>
+
+1722570816 c:\users\wes04\desktop\sistema bancario\interfaces.h
+	"dominios.h"
+	"entidades.h"
+	<stdexcept>
+	<iostream>
+
+1722569528 c:\users\wes04\desktop\sistema bancario\controladoras.h
+	"interfaces.h"
+	"containers.h"
+	<iostream>
+
+1722567414 c:\users\wes04\desktop\sistema bancario\containers.h
+	"dominios.h"
+	"entidades.h"
+	"controladoras.h"
+	"containers.h"
+	<list>
+	<map>
+
+1722701169 source:c:\users\faust\desktop\sistema bancario 2\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"controladoras.h"
+
+1722659607 c:\users\faust\desktop\sistema bancario 2\entidades.h
+	"dominios.h"
+
+1722659607 c:\users\faust\desktop\sistema bancario 2\dominios.h
+	<stdexcept>
+	<iostream>
+
+1722700990 c:\users\faust\desktop\sistema bancario 2\interfaces.h
+	"entidades.h"
+	<stdexcept>
+	<iostream>
+
+1722701107 c:\users\faust\desktop\sistema bancario 2\controladoras.h
+	"interfaces.h"
+	"containers.h"
+
+1722701030 c:\users\faust\desktop\sistema bancario 2\containers.h
+	"entidades.h"
+	<list>
+	<map>
+
+1722653385 c:\users\faust\desktop\sistema bancario 2\controladoras.cpp
+	<iostream>
+	<string>
+	<typeinfo>
+	<map>
+	"interfaces.h"
+	"controladoras.h"
+	"containers.h"
+	"dominios.h"
+	"entidades.h"
+
+1722704030 source:c:\users\faust\desktop\sistema bancario 2\containers.cpp
+	"containers.h"
+	<iostream>
+	<map>
+
+1722704181 source:c:\users\faust\desktop\sistema bancario 2\controladoras.cpp
+	<string>
+	<typeinfo>
+	<map>
+	"controladoras.h"
+
+1722659607 source:c:\users\faust\desktop\sistema bancario 2\dominios.cpp
+	<iostream>
+	<string>
+	<typeinfo>
+	"dominios.h"
+
+1722659607 source:c:\users\faust\desktop\sistema bancario 2\entidades.cpp
+	"entidades.h"
+
+1722657021 source:c:\users\bianc\downloads\sistema bancario 2\sistema bancario 2\containers.cpp
+	"containers.h"
+	<iostream>
+
+1722657021 c:\users\bianc\downloads\sistema bancario 2\sistema bancario 2\containers.h
+	"dominios.h"
+	"entidades.h"
+	"controladoras.h"
+	<list>
+	<map>
+
+1722657021 c:\users\bianc\downloads\sistema bancario 2\sistema bancario 2\dominios.h
+	<stdexcept>
+	<iostream>
+
+1722657021 c:\users\bianc\downloads\sistema bancario 2\sistema bancario 2\entidades.h
+	"dominios.h"
+
+1722657190 c:\users\bianc\downloads\sistema bancario 2\sistema bancario 2\controladoras.h
+	"interfaces.h"
+	"containers.h"
+	"dominios.h"
+	"entidades.h"
+
+1722657021 c:\users\bianc\downloads\sistema bancario 2\sistema bancario 2\interfaces.h
+	"dominios.h"
+	"entidades.h"
+	<stdexcept>
+	<iostream>
+
+1722657253 source:c:\users\bianc\downloads\sistema bancario 2\sistema bancario 2\controladoras.cpp
+	<string>
+	<typeinfo>
+	<map>
+	"controladoras.h"
+
+1722657021 source:c:\users\bianc\downloads\sistema bancario 2\sistema bancario 2\dominios.cpp
+	<iostream>
+	<string>
+	<typeinfo>
+	"dominios.h"
+
+1722657021 source:c:\users\bianc\downloads\sistema bancario 2\sistema bancario 2\entidades.cpp
+	"entidades.h"
+
+1722657021 source:c:\users\bianc\downloads\sistema bancario 2\sistema bancario 2\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"entidades.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladoras.h"
+	"controladoras.cpp"
+	"containers.h"
+
+1722657225 c:\users\bianc\downloads\sistema bancario 2\sistema bancario 2\controladoras.cpp
+	<iostream>
+	<string>
+	<typeinfo>
+	<map>
+	"controladoras.h"
+
+1722659667 source:c:\users\faust\desktop\sistema bancario 2\sistema bancario 2\containers.cpp
+	"containers.h"
+	<iostream>
+
+1722659606 c:\users\faust\desktop\sistema bancario 2\sistema bancario 2\containers.h
+	"dominios.h"
+	"entidades.h"
+	"controladoras.h"
+	<list>
+	<map>
+
+1722659607 c:\users\faust\desktop\sistema bancario 2\sistema bancario 2\dominios.h
+	<stdexcept>
+	<iostream>
+
+1722659607 c:\users\faust\desktop\sistema bancario 2\sistema bancario 2\entidades.h
+	"dominios.h"
+
+1722659607 c:\users\faust\desktop\sistema bancario 2\sistema bancario 2\controladoras.h
+	"interfaces.h"
+	"containers.h"
+	"dominios.h"
+	"entidades.h"
+
+1722659607 c:\users\faust\desktop\sistema bancario 2\sistema bancario 2\interfaces.h
+	"dominios.h"
+	"entidades.h"
+	<stdexcept>
+	<iostream>
+
+1722659606 source:c:\users\faust\desktop\sistema bancario 2\sistema bancario 2\controladoras.cpp
+	<string>
+	<typeinfo>
+	<map>
+	"controladoras.h"
+
+1722659607 source:c:\users\faust\desktop\sistema bancario 2\sistema bancario 2\dominios.cpp
+	<iostream>
+	<string>
+	<typeinfo>
+	"dominios.h"
+
+1722659607 source:c:\users\faust\desktop\sistema bancario 2\sistema bancario 2\entidades.cpp
+	"entidades.h"
+
+1722659607 source:c:\users\faust\desktop\sistema bancario 2\sistema bancario 2\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"entidades.h"
+	"dominios.h"
+	"interfaces.h"
+	"controladoras.h"
+	"containers.h"
+
+1722709182 source:c:\users\wes04\desktop\sistema bancario 2\containers.cpp
+	"containers.h"
+	<iostream>
+	<map>
+
+1722709182 c:\users\wes04\desktop\sistema bancario 2\containers.h
+	"entidades.h"
+	<list>
+	<map>
+
+1722659608 c:\users\wes04\desktop\sistema bancario 2\entidades.h
+	"dominios.h"
+
+1722659608 c:\users\wes04\desktop\sistema bancario 2\dominios.h
+	<stdexcept>
+	<iostream>
+
+1722714074 source:c:\users\wes04\desktop\sistema bancario 2\controladoras.cpp
+	<string>
+	<typeinfo>
+	<map>
+	"controladoras.h"
+
+1722701108 c:\users\wes04\desktop\sistema bancario 2\controladoras.h
+	"interfaces.h"
+	"containers.h"
+
+1722700992 c:\users\wes04\desktop\sistema bancario 2\interfaces.h
+	"entidades.h"
+	<stdexcept>
+	<iostream>
+
+1722659608 source:c:\users\wes04\desktop\sistema bancario 2\dominios.cpp
+	<iostream>
+	<string>
+	<typeinfo>
+	"dominios.h"
+
+1722659608 source:c:\users\wes04\desktop\sistema bancario 2\entidades.cpp
+	"entidades.h"
+
+1722701170 source:c:\users\wes04\desktop\sistema bancario 2\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"controladoras.h"
+
+1722734581 source:c:\users\faust\desktop\teste 1\containers.cpp
+	"containers.h"
+	<iostream>
+	<map>
+	<string>
+	<sstream>
+
+1722731126 c:\users\faust\desktop\teste 1\containers.h
+	"entidades.h"
+	<list>
+	<map>
+
+1722731126 c:\users\faust\desktop\teste 1\entidades.h
+	"dominios.h"
+
+1722731126 c:\users\faust\desktop\teste 1\dominios.h
+	<stdexcept>
+	<iostream>
+
+1722731829 source:c:\users\faust\desktop\teste 1\controladoras.cpp
+	<string>
+	<typeinfo>
+	<map>
+	"controladoras.h"
+
+1722731126 c:\users\faust\desktop\teste 1\controladoras.h
+	"interfaces.h"
+	"containers.h"
+
+1722731126 c:\users\faust\desktop\teste 1\interfaces.h
+	"entidades.h"
+	<stdexcept>
+	<iostream>
+
+1722731126 source:c:\users\faust\desktop\teste 1\dominios.cpp
+	<iostream>
+	<string>
+	<typeinfo>
+	"dominios.h"
+
+1722731126 source:c:\users\faust\desktop\teste 1\entidades.cpp
+	"entidades.h"
+
+1722731126 source:c:\users\faust\desktop\teste 1\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"controladoras.h"
+
+1722734582 source:c:\users\wes04\desktop\teste 1\containers.cpp
+	"containers.h"
+	<iostream>
+	<map>
+	<string>
+	<sstream>
+
+1722731128 c:\users\wes04\desktop\teste 1\containers.h
+	"entidades.h"
+	<list>
+	<map>
+
+1722731128 c:\users\wes04\desktop\teste 1\entidades.h
+	"dominios.h"
+
+1722731128 c:\users\wes04\desktop\teste 1\dominios.h
+	<stdexcept>
+	<iostream>
+
+1722731128 source:c:\users\wes04\desktop\teste 1\dominios.cpp
+	<iostream>
+	<string>
+	<typeinfo>
+	"dominios.h"
+
+1722731128 source:c:\users\wes04\desktop\teste 1\entidades.cpp
+	"entidades.h"
+
+1722735453 source:c:\users\wes04\desktop\teste 1\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"controladoras.h"
+
+1722731128 c:\users\wes04\desktop\teste 1\controladoras.h
+	"interfaces.h"
+	"containers.h"
+
+1722731128 c:\users\wes04\desktop\teste 1\interfaces.h
+	"entidades.h"
+	<stdexcept>
+	<iostream>
+
+1722736263 source:c:\users\wes04\desktop\teste 1\controladoras.cpp
+	<string>
+	<typeinfo>
+	<map>
+	"controladoras.h"
+
+1722740895 source:c:\users\faust\desktop\deu certo\containers.cpp
+	"containers.h"
+	<iostream>
+	<map>
+	<string>
+	<sstream>
+
+1722789122 c:\users\faust\desktop\deu certo\containers.h
+	"entidades.h"
+	<list>
+	<map>
+
+1722740895 c:\users\faust\desktop\deu certo\entidades.h
+	"dominios.h"
+
+1722740895 c:\users\faust\desktop\deu certo\dominios.h
+	<stdexcept>
+	<iostream>
+
+1722789115 source:c:\users\faust\desktop\deu certo\controladoras.cpp
+	<string>
+	<typeinfo>
+	<map>
+	"controladoras.h"
+
+1722790766 c:\users\faust\desktop\deu certo\controladoras.h
+	"interfaces.h"
+	"containers.h"
+
+1722789115 c:\users\faust\desktop\deu certo\interfaces.h
+	"entidades.h"
+	<stdexcept>
+	<iostream>
+
+1722740895 source:c:\users\faust\desktop\deu certo\dominios.cpp
+	<iostream>
+	<string>
+	<typeinfo>
+	"dominios.h"
+
+1722740895 source:c:\users\faust\desktop\deu certo\entidades.cpp
+	"entidades.h"
+
+1722740895 source:c:\users\faust\desktop\deu certo\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"controladoras.h"
+
+1722790765 source:c:\users\faust\desktop\t2-tp1-231006121-231021496\containers.cpp
+	"containers.h"
+	<iostream>
+	<map>
+	<string>
+	<sstream>
+
+1722791709 c:\users\faust\desktop\t2-tp1-231006121-231021496\containers.h
+	"entidades.h"
+	<list>
+	<map>
+
+1722740895 c:\users\faust\desktop\t2-tp1-231006121-231021496\entidades.h
+	"dominios.h"
+
+1722740895 c:\users\faust\desktop\t2-tp1-231006121-231021496\dominios.h
+	<stdexcept>
+	<iostream>
+
+1722790765 source:c:\users\faust\desktop\t2-tp1-231006121-231021496\controladoras.cpp
+	<string>
+	<typeinfo>
+	<map>
+	"controladoras.h"
+
+1722790766 c:\users\faust\desktop\t2-tp1-231006121-231021496\controladoras.h
+	"interfaces.h"
+	"containers.h"
+
+1722791709 c:\users\faust\desktop\t2-tp1-231006121-231021496\interfaces.h
+	"entidades.h"
+	<stdexcept>
+	<iostream>
+
+1722740895 source:c:\users\faust\desktop\t2-tp1-231006121-231021496\dominios.cpp
+	<iostream>
+	<string>
+	<typeinfo>
+	"dominios.h"
+
+1722740895 source:c:\users\faust\desktop\t2-tp1-231006121-231021496\entidades.cpp
+	"entidades.h"
+
+1722740895 source:c:\users\faust\desktop\t2-tp1-231006121-231021496\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"controladoras.h"
+
+1722790766 source:c:\users\wes04\desktop\t2-tp1-231006121-231021496\containers.cpp
+	"containers.h"
+	<iostream>
+	<map>
+	<string>
+	<sstream>
+
+1722791710 c:\users\wes04\desktop\t2-tp1-231006121-231021496\containers.h
+	"entidades.h"
+	<list>
+	<map>
+
+1722740896 c:\users\wes04\desktop\t2-tp1-231006121-231021496\entidades.h
+	"dominios.h"
+
+1722740896 c:\users\wes04\desktop\t2-tp1-231006121-231021496\dominios.h
+	<stdexcept>
+	<iostream>
+
+1722790766 source:c:\users\wes04\desktop\t2-tp1-231006121-231021496\controladoras.cpp
+	<string>
+	<typeinfo>
+	<map>
+	"controladoras.h"
+
+1722826077 c:\users\wes04\desktop\t2-tp1-231006121-231021496\controladoras.h
+	"interfaces.h"
+	"containers.h"
+
+1722826077 c:\users\wes04\desktop\t2-tp1-231006121-231021496\interfaces.h
+	"entidades.h"
+	<stdexcept>
+	<iostream>
+
+1722740896 source:c:\users\wes04\desktop\t2-tp1-231006121-231021496\dominios.cpp
+	<iostream>
+	<string>
+	<typeinfo>
+	"dominios.h"
+
+1722740896 source:c:\users\wes04\desktop\t2-tp1-231006121-231021496\entidades.cpp
+	"entidades.h"
+
+1722824675 source:c:\users\wes04\desktop\t2-tp1-231006121-231021496\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"controladoras.h"
+
+1738337666 source:c:\users\usuario1\downloads\t2-tp1-231006121-231021496\t2-tp1-231006121-231021496\containers.cpp
+	"containers.h"
+	<iostream>
+	<map>
+	<string>
+	<sstream>
+
+1738337535 c:\users\usuario1\downloads\t2-tp1-231006121-231021496\t2-tp1-231006121-231021496\containers.h
+	"entidades.h"
+	<list>
+	<map>
+
+1738329565 c:\users\usuario1\downloads\t2-tp1-231006121-231021496\t2-tp1-231006121-231021496\entidades.h
+	<iostream>
+	<vector>
+	"dominios.h"
+
+1738350523 c:\users\usuario1\downloads\t2-tp1-231006121-231021496\t2-tp1-231006121-231021496\dominios.h
+	<iostream>
+
+1738343461 source:c:\users\usuario1\downloads\t2-tp1-231006121-231021496\t2-tp1-231006121-231021496\controladoras.cpp
+	<string>
+	<typeinfo>
+	<map>
+	"controladoras.h"
+
+1738338107 c:\users\usuario1\downloads\t2-tp1-231006121-231021496\t2-tp1-231006121-231021496\controladoras.h
+	"interfaces.h"
+	"containers.h"
+
+1738337445 c:\users\usuario1\downloads\t2-tp1-231006121-231021496\t2-tp1-231006121-231021496\interfaces.h
+	"entidades.h"
+	<stdexcept>
+	<iostream>
+
+1738329255 source:c:\users\usuario1\downloads\t2-tp1-231006121-231021496\t2-tp1-231006121-231021496\dominios.cpp
+	<iostream>
+	<stdexcept>
+	<sstream>
+	<cctype>
+	<string>
+	<typeinfo>
+	<iomanip>
+	"dominios.h"
+
+1738328774 source:c:\users\usuario1\downloads\t2-tp1-231006121-231021496\t2-tp1-231006121-231021496\entidades.cpp
+	"entidades.h"
+
+1738343848 source:c:\users\usuario1\downloads\t2-tp1-231006121-231021496\t2-tp1-231006121-231021496\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"controladoras.h"
+	<cstdlib>
+
+1738359942 source:c:\users\usuario1\downloads\t2-tp1\t2-tp1\trabalho 2\containers.cpp
+	"containers.h"
+	<iostream>
+	<map>
+	<list>
+	<string>
+	<sstream>
+	<algorithm>
+
+1738356147 c:\users\usuario1\downloads\t2-tp1\t2-tp1\trabalho 2\containers.h
+	"entidades.h"
+	<list>
+	<map>
+
+1738356142 c:\users\usuario1\downloads\t2-tp1\t2-tp1\trabalho 2\entidades.h
+	<iostream>
+	<vector>
+	"dominios.h"
+
+1738356152 c:\users\usuario1\downloads\t2-tp1\t2-tp1\trabalho 2\dominios.h
+	<iostream>
+
+1738360738 source:c:\users\usuario1\downloads\t2-tp1\t2-tp1\trabalho 2\controladoras.cpp
+	<string>
+	<typeinfo>
+	<map>
+	<iostream>
+	<iomanip>
+	<limits>
+	<stdexcept>
+	<cstdlib>
+	"controladoras.h"
+
+1738356171 c:\users\usuario1\downloads\t2-tp1\t2-tp1\trabalho 2\controladoras.h
+	"interfaces.h"
+	"containers.h"
+	<iomanip>
+	<list>
+
+1738356167 c:\users\usuario1\downloads\t2-tp1\t2-tp1\trabalho 2\interfaces.h
+	"entidades.h"
+	<stdexcept>
+	<list>
+	<iostream>
+
+1738356175 source:c:\users\usuario1\downloads\t2-tp1\t2-tp1\trabalho 2\dominios.cpp
+	<iostream>
+	<stdexcept>
+	<sstream>
+	<cctype>
+	<string>
+	<typeinfo>
+	<iomanip>
+	"dominios.h"
+
+1738356139 source:c:\users\usuario1\downloads\t2-tp1\t2-tp1\trabalho 2\entidades.cpp
+	"entidades.h"
+
+1738359114 source:c:\users\usuario1\downloads\t2-tp1\t2-tp1\trabalho 2\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"controladoras.h"
+	<cstdlib>
+
+1738364759 source:c:\users\usuario1\downloads\t2-tp1-final\t2-tp1\trabalho 2\containers.cpp
+	"containers.h"
+	<iostream>
+	<map>
+	<list>
+	<string>
+	<sstream>
+	<algorithm>
+
+1738356147 c:\users\usuario1\downloads\t2-tp1-final\t2-tp1\trabalho 2\containers.h
+	"entidades.h"
+	<list>
+	<map>
+
+1738356142 c:\users\usuario1\downloads\t2-tp1-final\t2-tp1\trabalho 2\entidades.h
+	<iostream>
+	<vector>
+	"dominios.h"
+
+1738356152 c:\users\usuario1\downloads\t2-tp1-final\t2-tp1\trabalho 2\dominios.h
+	<iostream>
+
+1738371467 source:c:\users\usuario1\downloads\t2-tp1-final\t2-tp1\trabalho 2\controladoras.cpp
+	<string>
+	<typeinfo>
+	<map>
+	<iostream>
+	<iomanip>
+	<limits>
+	<stdexcept>
+	<cstdlib>
+	"controladoras.h"
+
+1738356171 c:\users\usuario1\downloads\t2-tp1-final\t2-tp1\trabalho 2\controladoras.h
+	"interfaces.h"
+	"containers.h"
+	<iomanip>
+	<list>
+
+1738356167 c:\users\usuario1\downloads\t2-tp1-final\t2-tp1\trabalho 2\interfaces.h
+	"entidades.h"
+	<stdexcept>
+	<list>
+	<iostream>
+
+1738356175 source:c:\users\usuario1\downloads\t2-tp1-final\t2-tp1\trabalho 2\dominios.cpp
+	<iostream>
+	<stdexcept>
+	<sstream>
+	<cctype>
+	<string>
+	<typeinfo>
+	<iomanip>
+	"dominios.h"
+
+1738356139 source:c:\users\usuario1\downloads\t2-tp1-final\t2-tp1\trabalho 2\entidades.cpp
+	"entidades.h"
+
+1738359114 source:c:\users\usuario1\downloads\t2-tp1-final\t2-tp1\trabalho 2\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"controladoras.h"
+	<cstdlib>
+
+1738364759 source:\\mac\home\downloads\t2-tp1-231006239-231021389-231006103-232029078-231006186-190089890\trabalho 2\containers.cpp
+	"containers.h"
+	<iostream>
+	<map>
+	<list>
+	<string>
+	<sstream>
+	<algorithm>
+
+1738356147 \\mac\home\downloads\t2-tp1-231006239-231021389-231006103-232029078-231006186-190089890\trabalho 2\containers.h
+	"entidades.h"
+	<list>
+	<map>
+
+1738450429 \\mac\home\downloads\t2-tp1-231006239-231021389-231006103-232029078-231006186-190089890\trabalho 2\entidades.h
+	<iostream>
+	<vector>
+	"dominios.h"
+
+1738356152 \\mac\home\downloads\t2-tp1-231006239-231021389-231006103-232029078-231006186-190089890\trabalho 2\dominios.h
+	<iostream>
+
+1738356175 source:\\mac\home\downloads\t2-tp1-231006239-231021389-231006103-232029078-231006186-190089890\trabalho 2\dominios.cpp
+	<iostream>
+	<stdexcept>
+	<sstream>
+	<cctype>
+	<string>
+	<typeinfo>
+	<iomanip>
+	"dominios.h"
+
+1738356139 source:\\mac\home\downloads\t2-tp1-231006239-231021389-231006103-232029078-231006186-190089890\trabalho 2\entidades.cpp
+	"entidades.h"
+
+1738359114 source:\\mac\home\downloads\t2-tp1-231006239-231021389-231006103-232029078-231006186-190089890\trabalho 2\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"controladoras.h"
+	<cstdlib>
+
+1738356171 \\mac\home\downloads\t2-tp1-231006239-231021389-231006103-232029078-231006186-190089890\trabalho 2\controladoras.h
+	"interfaces.h"
+	"containers.h"
+	<iomanip>
+	<list>
+
+1738356167 \\mac\home\downloads\t2-tp1-231006239-231021389-231006103-232029078-231006186-190089890\trabalho 2\interfaces.h
+	"entidades.h"
+	<stdexcept>
+	<list>
+	<iostream>
+
+1738451020 source:c:\users\usuario1\downloads\t2-tp1-231006239-231021389-231006103-232029078-231006186-190089890 (1)\t2-tp1-231006239-231021389-231006103-232029078-231006186-190089890\trabalho 2\containers.cpp
+	"containers.h"
+	<iostream>
+	<map>
+	<list>
+	<string>
+	<sstream>
+	<algorithm>
+
+1738457245 c:\users\usuario1\downloads\t2-tp1-231006239-231021389-231006103-232029078-231006186-190089890 (1)\t2-tp1-231006239-231021389-231006103-232029078-231006186-190089890\trabalho 2\containers.h
+	"entidades.h"
+	<list>
+	<map>
+
+1738451020 c:\users\usuario1\downloads\t2-tp1-231006239-231021389-231006103-232029078-231006186-190089890 (1)\t2-tp1-231006239-231021389-231006103-232029078-231006186-190089890\trabalho 2\entidades.h
+	<iostream>
+	<vector>
+	"dominios.h"
+
+1738451020 c:\users\usuario1\downloads\t2-tp1-231006239-231021389-231006103-232029078-231006186-190089890 (1)\t2-tp1-231006239-231021389-231006103-232029078-231006186-190089890\trabalho 2\dominios.h
+	<iostream>
+
+1738452970 source:c:\users\usuario1\downloads\t2-tp1-231006239-231021389-231006103-232029078-231006186-190089890 (1)\t2-tp1-231006239-231021389-231006103-232029078-231006186-190089890\trabalho 2\controladoras.cpp
+	<string>
+	<typeinfo>
+	<map>
+	<iostream>
+	<iomanip>
+	<limits>
+	<stdexcept>
+	<cstdlib>
+	"controladoras.h"
+
+1738451020 c:\users\usuario1\downloads\t2-tp1-231006239-231021389-231006103-232029078-231006186-190089890 (1)\t2-tp1-231006239-231021389-231006103-232029078-231006186-190089890\trabalho 2\controladoras.h
+	"interfaces.h"
+	"containers.h"
+	<iomanip>
+	<list>
+
+1738456813 c:\users\usuario1\downloads\t2-tp1-231006239-231021389-231006103-232029078-231006186-190089890 (1)\t2-tp1-231006239-231021389-231006103-232029078-231006186-190089890\trabalho 2\interfaces.h
+	"entidades.h"
+	<stdexcept>
+	<list>
+	<iostream>
+
+1738451020 source:c:\users\usuario1\downloads\t2-tp1-231006239-231021389-231006103-232029078-231006186-190089890 (1)\t2-tp1-231006239-231021389-231006103-232029078-231006186-190089890\trabalho 2\dominios.cpp
+	<iostream>
+	<stdexcept>
+	<sstream>
+	<cctype>
+	<string>
+	<typeinfo>
+	<iomanip>
+	"dominios.h"
+
+1738451020 source:c:\users\usuario1\downloads\t2-tp1-231006239-231021389-231006103-232029078-231006186-190089890 (1)\t2-tp1-231006239-231021389-231006103-232029078-231006186-190089890\trabalho 2\entidades.cpp
+	"entidades.h"
+
+1738456161 source:c:\users\usuario1\downloads\t2-tp1-231006239-231021389-231006103-232029078-231006186-190089890 (1)\t2-tp1-231006239-231021389-231006103-232029078-231006186-190089890\trabalho 2\main.cpp
+	<stdexcept>
+	<iostream>
+	<string>
+	"controladoras.h"
+	<cstdlib>
+
