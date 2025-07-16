@@ -7,6 +7,8 @@ Neste repositório, você encontrará Projetos de:
 - Algoritmo e Programação de Computadores;
 - Lógica Computacional 01;
 - Técnicas de Programação 01.
+- Engenharia de Software
+- Sistemas de Informação
 
 Contribuições são bem-vindas! Se você se interessar por algum projeto ou quiser sugerir melhorias, pode mandar um pull request. Adoro receber feedback e colaborações!
 
